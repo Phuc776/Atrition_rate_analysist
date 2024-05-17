@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Attrition_Analysis_Model", "Attrition_Analysis_Model.dwproj", "{DA201939-4A48-498A-A0F2-1EED3FB6D0CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA201939-4A48-498A-A0F2-1EED3FB6D0CC}.Development|Default.ActiveCfg = Development
+		{DA201939-4A48-498A-A0F2-1EED3FB6D0CC}.Development|Default.Build.0 = Development
+		{DA201939-4A48-498A-A0F2-1EED3FB6D0CC}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FF55590-9E61-4CBB-A51D-0A4593BBB1DE}
+	EndGlobalSection
+EndGlobal
